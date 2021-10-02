@@ -1,5 +1,4 @@
 
-<!DOCTYPE html>
 <html style="min-height: 100%; min-width: 100%;" >
 <head>
 	<title>Box or Carton Supply |Selangor|Fairview</title>
@@ -354,7 +353,7 @@ background-attachment: fixed;"/>
       	<br>
 <div class="navbar"> 
   <ul >
-<li><a style=" ;font-size:15px;"href="homepage.php"><i class="fa fa-group"></i> About Us </a></li>
+<li><a style="font-size:15px;"href="homepage.php"><i class="fa fa-group"></i> About Us </a></li>
 
         <li><a style="font-size:15px; " href= "aboutUs.php"> <i class="fa fa-cube"></i>  Product </a></li>
     
