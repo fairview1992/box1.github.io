@@ -348,7 +348,7 @@ background-size: cover;
 background-attachment: fixed;"/>
 
 <center>
-      <img style="width: 40%; " src="img/tutu.png" ></li></center>
+      <img style="width: 40%; " src="img/tutu.png" ></center>
       <div class="lulu">
       	<br>
 <div class="navbar"> 
