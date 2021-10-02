@@ -353,11 +353,11 @@ background-attachment: fixed;"/>
       	<br>
 <div class="navbar"> 
   <ul >
-<li><a style="font-size:15px;"href="homepage.php"><i class="fa fa-group"></i> About Us </a></li>
+	<li><a style="font-size:15px; " href="homepage.php"><i class="fa fa-group"></i> About Us </a></li>
 
         <li><a style="font-size:15px; " href= "aboutUs.php"> <i class="fa fa-cube"></i>  Product </a></li>
     
-    <li><a style="font-size:15px; " href="#reservation"> <i class="fa fa-address-book-o"></i>  Quotation </a></li>
+    	<li><a style="font-size:15px; " href="#reservation"> <i class="fa fa-address-book-o"></i>  Quotation </a></li>
 
         <li><a style="font-size:15px; " href="#service"> <i class="fa fa-gears"></i>  Services </a></li>
 
